@@ -25,6 +25,6 @@ There is no confirmed information about a Drosera Network airdrop
 
 2️⃣ Check: https://icoanalytics.org/projects/drosera/
 
-# Run Operator Node [Check Out](RL-Swarm.md)   
+# Run Operator Node [Check Out](Operator-Node.md)   
 
 [System Requiremnets](system-requirements.md)
