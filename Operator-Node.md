@@ -237,6 +237,7 @@ Edit `.env` file.
 nano .env
 ```
 * Replace `your_evm_private_key` and `your_vps_public_ip`
+* If using a `local` system, then replace your_vps_public_ip with `0.0.0.0`
 
 ### 6-1-2: Run Operator
 ```
