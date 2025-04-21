@@ -27,11 +27,10 @@ apt install screen -y
 ```
 screen -S drosera
 ```
-PRESS CTRL+A+D (to run ur node continuously)
-```
+- PRESS CTRL+A+D (to run ur node continuously)
 - To check ur Node Again
 ```
-screen -r rlswarm
+screen -r drosera
 ```
 
 <h1 align="center">Trap Setup</h1>
