@@ -83,6 +83,20 @@ forge build
 ```
 > skip warnings!
 
+**Configured Your RPC**:
+```bash
+sed -i 's|ethereum_rpc = ".*"|ethereum_rpc = "YOUR_RPC_URL"|' /root/my-drosera-trap/drosera.toml
+```
+* Replace `YOUR_RPC_URL` with any Public RPC
+
+Randomly Select Public RPC:
+
+https://holesky.drpc.org    
+https://endpoints.omniatech.io/v1/eth/holesky/public   
+https://holesky.gateway.tenderly.co   
+https://ethereum-holesky-rpc.publicnode.com
+https://1rpc.io/holesky
+
 **Deploy Trap**:
 ```bash
 DROSERA_PRIVATE_KEY=xxx drosera apply
