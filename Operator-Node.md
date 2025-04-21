@@ -297,18 +297,6 @@ sudo systemctl enable drosera
 sudo systemctl start drosera
 ```
 
-For Next Day Run This Command
-
-#1 Open WSL and Put this Command (for Local PC)
-```
-# reload systemd
-sudo systemctl daemon-reload
-sudo systemctl enable drosera
-
-# start systemd
-sudo systemctl start drosera
-```
-
 
 ### 6-2-3: Check Node Health
 ```console
@@ -319,11 +307,14 @@ journalctl -u drosera.service -f
 
 > !! No problem if you are receiveing `WARN drosera_services::network::service: Failed to gossip message: InsufficientPeers`
 
-### 6-2-4: Optional commands
+### 6-2-4: Optional commands OR For Next Day Run This Command
+
+1. Open WSL (for Local PC)
 ```console
 # Stop node
 sudo systemctl stop drosera
-
+```
+```
 # Restart node
 sudo systemctl restart drosera
 ```
