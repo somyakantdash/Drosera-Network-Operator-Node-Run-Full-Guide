@@ -245,7 +245,8 @@ docker logs -f drosera-node
 # Stop node
 cd Drosera-Network
 docker compose down -v
-
+```
+```
 # Restart node
 cd Drosera-Network
 docker compose up -d
@@ -295,6 +296,19 @@ sudo systemctl enable drosera
 # start systemd
 sudo systemctl start drosera
 ```
+
+For Next Day Run This Command
+
+#1 Open WSL and Put this Command (for Local PC)
+```
+# reload systemd
+sudo systemctl daemon-reload
+sudo systemctl enable drosera
+
+# start systemd
+sudo systemctl start drosera
+```
+
 
 ### 6-2-3: Check Node Health
 ```console
