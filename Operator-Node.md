@@ -238,7 +238,9 @@ docker logs -f drosera-node
 
 >  No problem if you are receiveing `WARN drosera_services::network::service: Failed to gossip message: InsufficientPeers`
 
-### 6-1-4: Optional Docker commands
+### 6-1-4: Optional Docker commands OR For Next Day Run This Command
+
+1. Open WSL and Docker (for Local PC)
 ```console
 # Stop node
 cd Drosera-Network
