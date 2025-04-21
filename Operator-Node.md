@@ -108,6 +108,7 @@ https://holesky.drpc.org
 https://endpoints.omniatech.io/v1/eth/holesky/public   
 https://holesky.gateway.tenderly.co   
 https://ethereum-holesky-rpc.publicnode.com
+
 https://1rpc.io/holesky
 
 **Deploy Trap**:
