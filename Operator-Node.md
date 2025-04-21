@@ -197,8 +197,8 @@ sudo ufw allow 31314/tcp
 
 ## 6. Install & Run Operator
 **Choose one Installation Method:**
-* Method 1: [Install using Docker](https://github.com/somyakantdash/Drosera-Network-Operator-Node-Run-Full-Guide/blob/main/README.md#method-1-docker)
-* Method 2: [Install using SystemD](https://github.com/somyakantdash/Drosera-Network-Operator-Node-Run-Full-Guide/blob/main/README.md#method-2-systemd)
+* Method 1: [Install using Docker](https://github.com/somyakantdash/Drosera-Network-Operator-Node-Run-Full-Guide/blob/main/Operator-Node.md#method-1-docker)
+* Method 2: [Install using SystemD](https://github.com/somyakantdash/Drosera-Network-Operator-Node-Run-Full-Guide/blob/main/Operator-Node.md#method-2-systemd)
 
 ## Method 1: Docker
 ### 6-1-1: Configure Docker
