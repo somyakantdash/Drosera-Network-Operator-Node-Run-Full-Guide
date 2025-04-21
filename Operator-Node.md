@@ -1,3 +1,18 @@
+# Drosera Operator Node Run Full Guide (PC and VPS)
+
+### Offical Docs Guide - still searching..................
+
+----
+
+## 🧰 Prerequisites
+### Before getting started, make sure you have the following:
+	
+ * Create New Metamask Wallet
+ * Claim Holesky Faucet in ur New Wallet [Faucet](https://cloud.google.com/application/web3/faucet/ethereum/holesky)
+
+ * 0.005+ ETH on the Eclipse network
+---
+
 ### Install Dependecies
 ```
 sudo apt-get update && sudo apt-get upgrade -y
