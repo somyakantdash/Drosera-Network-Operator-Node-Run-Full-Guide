@@ -10,7 +10,6 @@
  * Create New Metamask Wallet
  * Claim Holesky Faucet in ur New Wallet [Faucet](https://cloud.google.com/application/web3/faucet/ethereum/holesky)
 
- * 0.005+ ETH on the Eclipse network
 ---
 
 ### Install Dependecies
